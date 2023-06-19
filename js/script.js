@@ -145,7 +145,7 @@ const config = {
     Emails are sent via https://formsubmit.co/
     */
     contactPage: {
-        email: "spielsucht.minecraft@yahoo.com"
+        email: "spielsucht.minecraft@outlook.de"
     }
 }
 
